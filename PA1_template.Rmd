@@ -12,6 +12,7 @@ This document forms part of the Coursera Reproducible Research Course Assignment
 
 ```{r,warning=FALSE}
 library(knitr)
+knitr::opts_chunk$set(fig.path='figure/')
 library(ggplot2) # ggplot2 will be used for plotting figures
 ```
 
